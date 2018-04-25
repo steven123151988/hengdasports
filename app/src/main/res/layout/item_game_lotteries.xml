@@ -55,7 +55,7 @@
             android:textColor="@color/text_normal"
             android:textSize="@dimen/sp_16"/>
 
-        <com.international.wtw.lottery.widget.LotteryNumberView
+        <com.international.wtw.sports.widget.LotteryNumberView
             android:id="@+id/lotteryNumberView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

@@ -222,7 +222,7 @@
                         android:scaleType="center"
                         android:src="@mipmap/lock2" />
 
-                    <com.international.wtw.lottery.widget.PasswordInputView
+                    <com.international.wtw.sports.widget.PasswordInputView
                         android:id="@+id/edittext_withdrawl_pwd"
                         android:layout_width="0dp"
                         android:layout_height="@dimen/dimen_40"

@@ -14,14 +14,14 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
-            <com.international.wtw.lottery.base.view.CustomListView
+            <com.international.wtw.sports.base.view.CustomListView
                 android:id="@+id/lv_bet_outstand"
                 android:divider="#00000000"
                 android:dividerHeight="10dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
 
-            <com.international.wtw.lottery.base.view.CustomListView
+            <com.international.wtw.sports.base.view.CustomListView
                 android:id="@+id/lv_bet_has"
                 android:layout_width="wrap_content"
                 android:divider="#00000000"

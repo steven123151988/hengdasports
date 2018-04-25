@@ -172,7 +172,7 @@
                     android:layout_marginStart="@dimen/dimen_3"
                     android:layout_weight="1">
 
-                    <com.international.wtw.lottery.widget.MarqueeView
+                    <com.international.wtw.sports.widget.MarqueeView
                         android:id="@+id/marquee"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -204,7 +204,7 @@
                     android:layout_height="wrap_content"
                     android:orientation="vertical">
 
-                    <com.international.wtw.lottery.base.view.CustomGridView
+                    <com.international.wtw.sports.base.view.CustomGridView
                         android:id="@+id/recycle_menu"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"

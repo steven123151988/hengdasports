@@ -4,7 +4,7 @@
     android:layout_height="fill_parent"
     android:orientation="vertical">
 
-    <com.international.wtw.lottery.base.view.CustomRefreshListView
+    <com.international.wtw.sports.base.view.CustomRefreshListView
         android:id="@+id/lv_outstand"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

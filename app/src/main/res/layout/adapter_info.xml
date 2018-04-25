@@ -20,7 +20,7 @@
             android:textSize="@dimen/sp_14" />
 
 
-        <com.international.wtw.lottery.utils.MyTextView
+        <com.international.wtw.sports.utils.MyTextView
             android:lines="2"
             android:ellipsize="end"
             android:textColor="@color/gray_4c4c4c"

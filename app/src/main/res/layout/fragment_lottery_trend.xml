@@ -6,7 +6,7 @@
               android:layout_height="match_parent"
               android:orientation="vertical">
 
-    <com.international.wtw.lottery.widget.TitleBar
+    <com.international.wtw.sports.widget.TitleBar
         android:id="@+id/title_bar"
         android:layout_width="match_parent"
         android:layout_height="45dp"

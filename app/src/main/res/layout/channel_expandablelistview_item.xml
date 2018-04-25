@@ -5,7 +5,7 @@
     android:background="#f0f0f0"
     android:orientation="vertical">
 
-    <com.international.wtw.lottery.base.view.CustomListView
+    <com.international.wtw.sports.base.view.CustomListView
         android:id="@+id/listview_item_child"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

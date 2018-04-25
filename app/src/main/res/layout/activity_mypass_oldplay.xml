@@ -40,7 +40,7 @@
         android:text="@string/mypasswordoldplay_qsrjd6wzfmm"
         android:textSize="15sp" />
 
-    <com.international.wtw.lottery.widget.PasswordInputView
+    <com.international.wtw.sports.widget.PasswordInputView
         android:id="@+id/edittext_withdrawl_oldpwd"
         android:layout_width="match_parent"
         android:layout_height="45dp"

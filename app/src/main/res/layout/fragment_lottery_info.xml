@@ -216,7 +216,7 @@
             android:textColor="@color/text_dark"
             android:textSize="@dimen/sp_12"/>
 
-        <com.international.wtw.lottery.widget.LotteryNumberView
+        <com.international.wtw.sports.widget.LotteryNumberView
             android:id="@+id/lotteryNumberView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -224,7 +224,7 @@
             android:orientation="horizontal"/>
     </LinearLayout>
 
-    <com.international.wtw.lottery.widget.LotteryPropertyView
+    <com.international.wtw.sports.widget.LotteryPropertyView
         android:id="@+id/lotteryPropertyView"
         android:layout_width="match_parent"
         android:layout_height="20dp"

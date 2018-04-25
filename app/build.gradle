@@ -9,8 +9,8 @@ android {
         minSdkVersion 17
         targetSdkVersion 22
 
-        versionCode 19
-        versionName "1.99"
+        versionCode 1
+        versionName "1.0"
         flavorDimensions "versionCode"
         aaptOptions.cruncherEnabled = false
         aaptOptions.useNewCruncher = false

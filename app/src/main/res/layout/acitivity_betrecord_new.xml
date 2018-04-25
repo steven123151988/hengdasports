@@ -40,7 +40,7 @@
         android:textColor="@color/black_08090b"
         android:textSize="@dimen/sp_16" />
 
-    <com.international.wtw.lottery.base.view.CustomRefreshListView
+    <com.international.wtw.sports.base.view.CustomRefreshListView
         android:id="@+id/lv_bet_record"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
