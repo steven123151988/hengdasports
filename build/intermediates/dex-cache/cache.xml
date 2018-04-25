@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\31.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43d0d0103c16f6a59f6168f7e1fc19fc904dccdd">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\4.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bffe65043be0523cc6aa671d1572c80106601bea">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\15.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53af8e523f724973c59ec5e7bab532ec82aaacd7">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\13.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa7adf4bdee962998e30d6016b333ba0c4040449">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\10.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a9cfa342a3378c6390ca0e2aa9a1624fcf1682c">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\12.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="074731485b486e5617f4d6d31e09e83c3e542dd8">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\9.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e48262fe9ddd7ae987db1ef1672d00815233cad">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\30.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fb2d8fef57180db55717183376ff519cd57aa78">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\36.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8bb580361545f30a60cbea1ebab7713f07f4c946">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\5.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94fcb07231b2a934fb6161690ef3efc28295b23c">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\28.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="717110165397a405f972d8bba5f38d96b7831af9">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\24.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce92d46e66c0ffe46eba6a6a2ff227eca59a32c5">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\27.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d07071910eb17586b7b7d0b475643d4af9515e3">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\18.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5bac95ba8ee493384e38d1cf5974fc949bd4d8f4">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\11.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4b7a0421654bd4455d0f9b1b9c32f5893b7a1e0">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\processing-tools\runtime-deps\ali\release\desugar_try_with_resources.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="786b13e9d4668484b418e1b356d7da6cb89fbd2f">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\35.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="356a50d23e9495e074948404c538c3eb9dfebb2d">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\41.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78c35d81d68f24a19fa7b53b2e8f291135947756">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\16.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a42a00436a83ed4309f6c61f281428130cedf8d">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\22.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70bb91d0f2a6a210603265f464de009433b2818">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\26.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e0abfb11277838ef2b9d15b7311961f5270eb660">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\14.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e8d548988c64c340bf52a4c5354ed45fad54bf9">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\7.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="281c22475bba0d52f810fd713900cdfc1aab3705">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\21.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e25b5ce7745fb1af15a6dfbdd26a1111a8a207a9">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\20.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="317c261f8c4bbb4dbe8865cb1904fc6e5e36d707">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\2.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b882c3fea39cabb11d1fe62d9d24cf6e6f33435">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\38.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eea99fb28a6de910e6257eacb0403371523b02ba">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\6.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c5aae5736ab93bc0c073c955a2a25c5b6fc8a2f">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\8.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9bbea5723843cc43b594fe6dd8df28109b8efb9b">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\37.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5028126c5ed6938058b06469930625c4453f5f9f">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\32.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7a22f585796a2212fbd589d01f0215a51420a12">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\23.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba4d5d877134f319331081ee3e65b365a36dc41d">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\34.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dbc9902043ee7a78ed23ed43a78676c69b16d974">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\25.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d19fc5fac0a7af50269456ad57235a644870f09b">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a429bf1216041649ee3ff18de5641b90722d2bd">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\29.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6ebe37b9d1d8d63cb14ecbf8ee8eb4d4853d591">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\17.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="451ec15a4e72afea99b8f807f6239a6cbd6b580e">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\40.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddf0784db6d6e3deac1469c5c285e3638f6e1c2b">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\19.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="447cf5126e31c029ee3d99d337b1bf5f2bfb860f">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\33.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d53d88bb40d93d8512e1767d31ac72dc3ae751b">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\39.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9993e259675eef1ef126e0ef043e9bf0567326e5">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\java_lottery_365\app\build\intermediates\transforms\desugar\ali\release\3.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0315c0d5326afed0a0a4763b53f2a1f409ad4dbf">
+        <dex dex="F:\java_lottery_365\app\build\intermediates\transforms\preDex\ali\release\3.jar" />
+    </item>
+
+</items>

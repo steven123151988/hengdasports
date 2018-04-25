@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F2F2F2"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@color/middle_blue">
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="@dimen/dimen_6"
+            android:text="个人中心"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/mine_out_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView18"
+            android:layout_alignBottom="@+id/textView18"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="@dimen/dimen_5"
+            android:text="退出"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:background="@mipmap/icon_mine_bg">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="85dp"
+            android:layout_height="85dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:src="@mipmap/icon_mine_touxaing" />
+
+        <TextView
+            android:id="@+id/mine_tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp"
+            android:text="您好！"
+            android:textColor="@color/color_mine" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mine_tv_name"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="5dp">
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="余额:"
+                android:textColor="@color/color_mine" />
+
+            <TextView
+                android:id="@+id/mine_tv_balance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/textView20"
+                android:layout_alignBottom="@+id/textView20"
+                android:layout_toEndOf="@+id/textView20"
+                android:text="0"
+                android:textColor="@color/white" />
+
+            <ImageView
+                android:id="@+id/mine_img_balance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/mine_tv_balance"
+                android:layout_marginLeft="@dimen/dimen_5"
+                android:layout_toEndOf="@+id/mine_tv_balance"
+                android:src="@mipmap/icon_mine_refresh" />
+        </RelativeLayout>
+    </RelativeLayout>
+ 
+    <GridView
+        android:id="@+id/mine_gv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/dimen_8"
+        android:background="#F2F2F2"
+        android:horizontalSpacing="@dimen/dimen_1"
+        android:numColumns="3"
+        android:scrollbars="none"
+        android:verticalSpacing="@dimen/dimen_1" />
+
+</LinearLayout>
