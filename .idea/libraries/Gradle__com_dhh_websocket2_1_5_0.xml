@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dhh:websocket2-1.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/websocket2-1.5.0.aar/c3f19a24b17463d24fcb61934272d81a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/websocket2-1.5.0.aar/c3f19a24b17463d24fcb61934272d81a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dhh/websocket2/1.5.0/22b7a1c08c7c5e4cbd3aeeedf5e4692682c13ed9/websocket2-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
